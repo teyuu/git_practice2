@@ -2,5 +2,15 @@
 
 Para qué quiere un pastor un compilador? pues para tener «OBEJOTAS»
 
+<<<<<<< HEAD
 Por qúe la nena se cayó de la hamaca?
 Porque no tenía brazos...
+=======
+-Toc toc 
+-¿Quién es? 
+-Testigos de Jehová 
+-Pasen 
+-... 
+-¿Qué quieren? 
+-No sé, nunca nos habían dejado pasar.
+>>>>>>> nueva_rama2
